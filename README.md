@@ -10,4 +10,5 @@
 
 ##  <font color="#f00"> ⚠ ⚠ ⚠ 注意事項  ⚠ ⚠ ⚠ </font> 
 
-{%youtube 4VrBmipOGAo %}
+{%youtube 4VrBmipOGAo%}
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=4VrBmipOGAo)
