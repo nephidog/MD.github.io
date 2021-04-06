@@ -21,4 +21,4 @@ var folder;
 var folderID =[];//影片資料夾金鑰
 ```
 - [x] Button
-- [] button
+- [ ] button
